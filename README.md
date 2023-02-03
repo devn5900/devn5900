@@ -4,7 +4,7 @@
 
 <h2 align="center">
 console.log("Welcome Here !!")
-<a href="https://devn5900.github.io/">
+<a href="https://devn5900.github.io/" target="_blank">
  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfilo" />
  </a>
 </h2>
@@ -25,7 +25,7 @@ class Skills extends SoftwareDeveloper {
 ```
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devn5900&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
-<a href="https://github.com/devn5900?tab=followers"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
+<a href="https://github.com/devn5900?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
 </p>
 
 # 📊 GitHub Stats:
@@ -84,8 +84,8 @@ class Skills extends SoftwareDeveloper {
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <span align="left">
-  <a href="https://www.linkedin.com/in/devesh-kumar-mishra-58b481152/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="devn5900@gmail.com" href="mailto:akashkmt963@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://www.linkedin.com/in/devesh-kumar-mishra-58b481152/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="devn5900@gmail.com" href="mailto:akashkmt963@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://devn5900.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </span>
 <br />
