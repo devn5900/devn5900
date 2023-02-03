@@ -5,7 +5,7 @@
 <h2 align="center">
 console.log("Welcome Here !!")
 <a href="https://devn5900.github.io/">
- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" alt="portfilo" />
+ <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfilo" />
  </a>
 </h2>
 <img src="https://i.pinimg.com/originals/22/a5/c7/22a5c746a97687ea11af86ee8bfabe20.gif" width="350" align="right" alt="" />
@@ -24,13 +24,15 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devn5900&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<a href="https://github.com/devn5900?tab=followers"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devn5900&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<a href="https://github.com/devn5900?tab=followers"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
 </p>
 
 # 📊 GitHub Stats:
+<div style="display:'flex'">
 <img src="https://github-readme-stats.vercel.app/api?username=devn5900&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devn5900&theme=blue-green&hide_border=true"/>
+ </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devn5900&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 
@@ -45,10 +47,10 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" /> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typeScript" />
-   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="react" />
-   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React_Router" />
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="mysql" /> 
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router" />
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
         
        
     
@@ -75,9 +77,10 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+### ✍️ Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <span align="left">
@@ -86,19 +89,5 @@ class Skills extends SoftwareDeveloper {
   <a href="https://devn5900.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </span>
 <br />
-<!--
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
-</div>
-<br />
--->
-<!--
-<img src="https://activity-graph.herokuapp.com/graph?username=akashkmt&theme=minimal" alt="activitygraph" /> 
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkmt" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=akashkmt" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkmt&theme=vue" alt="summarycard"/> </p>
-<hr />
--->
+
 
