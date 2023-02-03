@@ -15,7 +15,7 @@ import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Devesh Kumar Mishra';
   title    = 'Student' || 'Full Stack Web Developer';
-  location = 'Balrampur, U.P.';
+  address = 'Balrampur, U.P.';
   availability = "Learning !!";
 }
 class Skills extends SoftwareDeveloper {
