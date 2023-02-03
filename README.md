@@ -25,7 +25,7 @@ class Skills extends SoftwareDeveloper {
 ```
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devn5900&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
-<a href="https://github.com/devn5900?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
+<a href="https://github.com/devn5900?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
 </p>
 
 # 📊 GitHub Stats:
