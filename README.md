@@ -31,11 +31,14 @@ class Skills extends SoftwareDeveloper {
 
 # 📊 GitHub Stats:
 <div style="display:'flex'">
-<img src="https://github-readme-stats.vercel.app/api?username=devn5900&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devn5900&theme=blue-green&hide_border=true"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=devn5900&count_private=true&theme=transparent&show_icons=true)](https://github.com/devn5900/github-readme-stats" >
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devn5900&theme=blue-green&show_icons=true">
  </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devn5900&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-  <a><img alt="Devesh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devn5900&theme=react-dark&hide_border=true" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devn5900&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&layout=compact">
+  <a><img alt="Devesh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devn5900&theme=transparent&show_icons=true" ></a>
+
 
 
 
