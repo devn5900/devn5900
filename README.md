@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h1>Devesh Kumar Mishra</h1>
+<h1 align="center">Devesh Kumar Mishra</h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about development that improve the everyday experience for people.</h4>
 
 <h2 align="center">
