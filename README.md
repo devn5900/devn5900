@@ -13,13 +13,14 @@ console.log("Welcome Here !!")
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Devesh Kumar Mishra';
-  title    = 'Student' || 'Full Stack Web Developer';
+  title    = 'Full Stack Developer @ Wortal CRM';
   address = 'Balrampur, U.P.';
-  availability = "Learning !!";
+  availability = "Full Stack Developer !!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  ui = ['Chakra-Ui' , 'CSS'];
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux', 'Vue.js'];
+  ui = ['Chakra-Ui', 'TailwindCSS', 'CSS'];
+backend = ['nodejs', 'expressjs', 'adonisjs', 'mongoDB', 'mysql']
 }
 ```
 <br/>
