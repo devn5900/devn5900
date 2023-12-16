@@ -12,7 +12,7 @@ console.log("Welcome Here !!")
 
 
 
-<img src="https://github.com/devn5900/devn5900/assets/94969888/f7c73acf-8b88-47d4-8571-1becb1472627" width="450" align="right" alt="" />
+<img src="https://github.com/devn5900/devn5900/assets/94969888/f7c73acf-8b88-47d4-8571-1becb1472627" width="400" align="right" alt="" />
 
 ```js
 import SoftwareDeveloper from 'India';
