@@ -17,7 +17,8 @@ class Bio extends SoftwareDeveloper {
   availability = "Learning !!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['HTML', 'JavaScript', 'ReactJS', 'Redux', 'VueJS', 'AdonisJS', 'Node Js', 'Express Js', 'Mongo DB', 'MySql', ];
+  frontend  = ['HTML', 'JavaScript', 'ReactJS', 'Redux', 'VueJS', 'AdonisJS',
+               'Node Js', 'Express Js', 'Mongo DB', 'MySql', ];
   ui = ['Chakra Ui', 'CSS','Tailwind','Bootstrap'];
 }
 ```
